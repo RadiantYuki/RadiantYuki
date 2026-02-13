@@ -1,16 +1,31 @@
-## Hi there 👋
+# ✨ 🎀 (੭｡╹▿╹｡)੭ hiya, i'm Yuki! 🪭 ✨
 
-<!--
-**RadiantYuki/RadiantYuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`beginner` **C++** cutie & web explorer 🍬
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 my widdle corner of github
+* ˙.🍰ˎˊ  **learning:** how to poke **C++** until it works!! (๑ᵔ⤙ᵔ๑)
+* ⭑˖🍭.˙ **building:** tiny apps & cozy interfaces.
+* -`🩷´- **motto:** "one semicolon at a time, please!"
+* ˚˖🌸⋆ **vibe:** soft colors, snacks, and bug-free code ☁️
+
+---
+
+### 📝 my status
+```cpp
+#include <iostream>
+
+void daily_routine() {
+    bool is_comfy = true;
+    while (is_comfy) {
+        std::cout << "making magic with web... ✨" << std::endl;
+        std::cout << "becoming a C++ master! ₍ᐢ. .ᐢ₎" << std::endl;
+        std::cout << "eating sweet treats... 🍮" << std::endl;
+    }
+}
+
+```
+
+---
+
